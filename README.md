@@ -91,6 +91,10 @@ Blockbusterr has no login requirement by default. Keep it on a trusted LAN, behi
 
 [Read the quick start](https://blockbusterr.dev/v2/getting-started/quickstart/) · [Installation options](https://blockbusterr.dev/v2/getting-started/installation/) · [Unraid, TrueNAS SCALE, and Portainer](https://blockbusterr.dev/v2/getting-started/deployment-platforms/) · [Upgrade from v1](https://blockbusterr.dev/v2/getting-started/upgrading-to-v2/)
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Blockbusterr/)
+
 ## See it in use
 
 ### Jobs
